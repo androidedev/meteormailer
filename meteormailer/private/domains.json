@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "domain": "alloweddomain.com",
+        "smtpserver": "mail.alloweddomain.com",
+        "smtpsender": "mailer@alloweddomain.com",
+        "smtppass": "here_goes_the_pass",
+        "smtpport": "587",
+        "smtpto": "adevel@alloweddomain.com",
+        "smtpcc": "adevel2@alloweddomain.com",
+        "smtpsubject": "Test subject 1"
+    },
+    {
+        "id": 1,
+        "domain": "alloweddomain2.com",
+        "smtpserver": "mail.alloweddomain2.com",
+        "smtpsender": "mailer@alloweddomain2.com",
+        "smtppass": "here_goes_the_pass_2",
+        "smtpport": "587",
+        "smtpto": "adevel@alloweddomain2.com",
+        "smtpcc": "adevel2@alloweddomain2.com",
+        "smtpsubject": "Test subject 2"
+    }
+]
